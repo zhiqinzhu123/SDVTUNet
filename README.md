@@ -33,13 +33,20 @@ This article is implemented by Pytorch.
 ----------------------------------------------
 
 @article{ZHU2024108284,
+
 title = {Sparse Dynamic Volume TransUNet with multi-level edge fusion for brain tumor segmentation},
+
 journal = {Computers in Biology and Medicine},
+
 volume = {172},
+
 pages = {108284},
+
 year = {2024},
+
 issn = {0010-4825},
+
 doi = {https://doi.org/10.1016/j.compbiomed.2024.108284},
-url = {https://www.sciencedirect.com/science/article/pii/S0010482524003688},
+
 author = {Zhiqin Zhu and Mengwei Sun and Guanqiu Qi and Yuanyuan Li and Xinbo Gao and Yu Liu},
 }
